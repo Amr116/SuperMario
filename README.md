@@ -7,5 +7,6 @@ An attempt to recreate the first level of Super Mario game implemented in C++ us
 
 you can execute the install.sh to install the prerequisites
 ```
-$ ./install.sh
+$sh install.sh
 ```
+
