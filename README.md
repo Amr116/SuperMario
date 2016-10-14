@@ -9,4 +9,8 @@ you can execute the install.sh to install the prerequisites
 ```
 $sh install.sh
 ```
+## purpose
+This project is intended for non-commercial educational purposes.
 
+## License
+I haven't formally decided on a license for this project yet.
