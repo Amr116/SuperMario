@@ -6,4 +6,6 @@ An attempt to recreate the first level of Super Mario game implemented in C++ us
 - SDL lib
 
 you can execute the install.sh to install the prerequisites
+'''
 $ ./install.sh
+'''
