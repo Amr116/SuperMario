@@ -1,7 +1,7 @@
 # SuperMario
 An attempt to recreate the first level of Super Mario game implemented in C++ using OpenGL.
 
-## Prerequisites & DEPENDENCIES:
+## Prerequisites & Dependencies:
 - freeglut lib 
 - SDL lib
 
